@@ -93,24 +93,6 @@ This project reinforces several key concepts in C++:
 
 ---
 
-## 🏁 Ready to Explore?  
-
-### 🚀 How to Run  
-1. Clone this repository to your local machine.  
-   ```bash  
-   git clone https://github.com/yourusername/cpp-calculator.git  
-   ```  
-2. Compile the program with your preferred compiler:  
-   ```bash  
-   g++ calculator.cpp -o calculator  
-   ```  
-3. Execute the application:  
-   ```bash  
-   ./calculator  
-   ```  
-
----
-
 ## 📜 License  
 
 This project is open-source. Feel free to modify and expand it! 🚀  
